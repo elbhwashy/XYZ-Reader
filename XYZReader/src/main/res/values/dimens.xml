@@ -5,13 +5,13 @@
     <dimen name="detail_title_text_size">32sp</dimen>
     <dimen name="detail_body_text_size">22sp</dimen>
     <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
-    <dimen name="fab_elevation">2dp</dimen>
+    <dimen name="fab_elevation">6dp</dimen>
     <dimen name="fab_press_translation_z">6dp</dimen>
     <dimen name="fab_margin_end">24dp</dimen>
     <dimen name="fab_margin_bottom">@dimen/fab_margin_end</dimen>
     <item name="spacer_to_window_height_ratio" format="float" type="dimen">0.90</item>
     <!-- list item -->
-    <dimen name="list_card_elevation">4dp</dimen>
+    <dimen name="list_card_elevation">1dp</dimen>
     <dimen name="list_card_corner_radius">15dp</dimen>
     <dimen name="list_item_title_padding_sides">16dp</dimen>
     <dimen name="list_item_title_padding_top">@dimen/list_item_title_padding_sides</dimen>

@@ -3,7 +3,7 @@
     <dimen name="list_side_margin">4dp</dimen>
     <dimen name="list_toolbar_side_margin">0dp</dimen>
     <integer name="list_column_count">1</integer>
-    <dimen name="main_app_bar_elevation">8dp</dimen>
+    <dimen name="main_app_bar_elevation">4dp</dimen>
     <dimen name="main_app_bar_height">112dp</dimen>
 
     <!-- detail -->
@@ -27,7 +27,7 @@
     <dimen name="fab_height">56dp</dimen>
 
     <!-- detail card tablet -->
-    <dimen name="detail_card_tablet_elevation">2dp</dimen>
+    <dimen name="detail_card_tablet_elevation">1dp</dimen>
     <dimen name="detail_card_tablet_padding_sides">24dp</dimen>
     <dimen name="detail_card_tablet_max_width">784dp</dimen>
 </resources>
