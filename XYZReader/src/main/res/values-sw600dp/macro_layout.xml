@@ -1,0 +1,16 @@
+<resources>
+    <!-- detail -->
+    <dimen name="detail_photo_height">384dp</dimen>
+    <dimen name="detail_card_top_margin">384dp</dimen>
+    <dimen name="detail_inner_horiz_margin">64dp</dimen>
+    <dimen name="detail_metabar_vert_padding">32dp</dimen>
+    <dimen name="detail_metabar_title_bottom_padding">8dp</dimen>
+    <dimen name="detail_body_bottom_margin">64dp</dimen>
+    <integer name="list_column_count">2</integer>
+    <dimen name="article_body_layout_width">@dimen/wrap_content</dimen>
+    <dimen name="article_body_layout_height">@dimen/wrap_content</dimen>
+    <dimen name="article_body_margin_top">32dp</dimen>
+    <dimen name="detail_photo_layout_height">@dimen/match_parent</dimen>
+    <dimen name="detail_photo_container_layout_height">@dimen/match_parent</dimen>
+    <color name="detail_scrim_color">@android:color/transparent</color>
+</resources>

@@ -1,0 +1,33 @@
+<resources>
+    <!-- list -->
+    <dimen name="list_side_margin">4dp</dimen>
+    <dimen name="list_toolbar_side_margin">0dp</dimen>
+    <integer name="list_column_count">1</integer>
+    <dimen name="main_app_bar_elevation">8dp</dimen>
+    <dimen name="main_app_bar_height">112dp</dimen>
+
+    <!-- detail -->
+    <bool name="detail_is_card">false</bool>
+    <dimen name="detail_photo_height">304dp</dimen>
+    <dimen name="detail_card_top_margin">@dimen/detail_photo_height</dimen>
+    <dimen name="detail_inner_horiz_margin">16dp</dimen>
+    <dimen name="detail_card_max_width">10000dp</dimen> <!-- force match_parent -->
+    <dimen name="detail_metabar_vert_padding">16dp</dimen>
+    <dimen name="detail_metabar_title_bottom_padding">4dp</dimen>
+    <dimen name="detail_body_top_margin">16dp</dimen>
+    <dimen name="detail_body_bottom_margin">88dp</dimen>
+    <dimen name="article_body_margin_top">16dp</dimen>
+    <dimen name="article_body_layout_width">@dimen/match_parent</dimen>
+    <dimen name="article_body_layout_height">@dimen/wrap_content</dimen>
+    <dimen name="detail_metabar_start_padding">72dp</dimen>
+    <dimen name="detail_photo_layout_height">0dp</dimen>
+    <dimen name="detail_photo_container_layout_height">@dimen/wrap_content</dimen>
+    <dimen name="detail_app_bar_elevation">4dp</dimen>
+    <dimen name="fab_width">56dp</dimen>
+    <dimen name="fab_height">56dp</dimen>
+
+    <!-- detail card tablet -->
+    <dimen name="detail_card_tablet_elevation">2dp</dimen>
+    <dimen name="detail_card_tablet_padding_sides">24dp</dimen>
+    <dimen name="detail_card_tablet_max_width">784dp</dimen>
+</resources>

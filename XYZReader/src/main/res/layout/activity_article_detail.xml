@@ -1,0 +1,12 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/DetailRootFrameLayout">
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/pager"
+        style="@style/DetailViewPager" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/share_fab"
+        style="@style/DetailFAB"
+        android:contentDescription="@string/action_share" />
+</FrameLayout>

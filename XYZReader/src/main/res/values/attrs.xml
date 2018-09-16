@@ -1,0 +1,5 @@
+<resources>
+    <declare-styleable name="Theme">
+        <attr name="colorPrimaryLight" format="color|reference" />
+    </declare-styleable>
+</resources>

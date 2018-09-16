@@ -1,0 +1,32 @@
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/ListItemRootConstraintLayout">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/cv_cover"
+        style="@style/ListItemCardView">
+
+        <android.support.constraint.ConstraintLayout style="@style/ListItemCardConstraintLayout">
+
+            <ImageView
+                android:id="@+id/thumbnail"
+                style="@style/ListItemCardImage"
+                android:contentDescription="@string/article_cover_thumbnail" />
+
+            <View style="@style/ListItemCardTextBacking" />
+
+            <TextView
+                android:id="@+id/article_title"
+                style="@style/ListItemTitle"
+                android:gravity="center"
+                tools:text="The Son Of The Wolf" />
+
+            <TextView
+                android:id="@+id/article_subtitle"
+                style="@style/ListItemSubTitle"
+                android:gravity="center"
+                tools:text="Jan 1, 1900 by Jack London" />
+
+        </android.support.constraint.ConstraintLayout>
+    </android.support.v7.widget.CardView>
+</android.support.constraint.ConstraintLayout>
